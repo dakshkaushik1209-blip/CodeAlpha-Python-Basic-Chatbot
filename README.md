@@ -21,4 +21,8 @@
 - Bot : My name is CodeAlpha Bot.
 
 ## Author
-Daksh kaushik\nB.Tech CSE (AI/ML)\nFirst year
+Daksh kaushik
+
+B.Tech CSE (AI/ML)
+
+First year
