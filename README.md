@@ -15,12 +15,12 @@
 - Loop
 
 ## Example interaction
-You : Hi
-Bot : Hello! How are you?
-You : What is your name
-Bot : My name is CodeAlpha Bot.
+- You : Hi
+- Bot : Hello! How are you?
+- You : What is your name
+- Bot : My name is CodeAlpha Bot.
 
 ## Author
-Daksh kaushik
-B.Tech CSE (AI/ML)
-First year
+- Daksh kaushik
+- B.Tech CSE (AI/ML)
+- First year
